@@ -1,2 +1,3 @@
 this is some text
+added a new line in the middle
 another line has been added
